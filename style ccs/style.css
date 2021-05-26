@@ -1,6 +1,6 @@
 body
 {
-    color: orangered;
+    color: deeppink;
      text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -17,8 +17,7 @@ body
 }
 
 #container h1
-{
-    font-size: 20px;
+     font-size: 20px;
 }
 #cabecera
 {
